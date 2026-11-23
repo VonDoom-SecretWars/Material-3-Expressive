@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Chronos</string>
+    <string name="brand_eyebrow">Avengers: Doomsday</string>
+    <string name="greeting_morning">Good Morning</string>
+    <string name="greeting_afternoon">Good Afternoon</string>
+    <string name="greeting_evening">Good Evening</string>
+
+    <string name="tab_clock">Clock</string>
+    <string name="tab_alarms">Alarms</string>
+    <string name="tab_timer">Timer</string>
+    <string name="tab_stopwatch">Stopwatch</string>
+
+    <string name="cd_toggle_surface">Switch Light, Dark, or AMOLED surface</string>
+    <string name="cd_standby_mode">Enter StandBy Ambient mode</string>
+    <string name="cd_exit_standby">Exit StandBy mode</string>
+    <string name="cd_open_theme_studio">Open Theme Studio</string>
+    <string name="cd_close">Close</string>
+    <string name="cd_morph_dial">Analog clock dial, tap to morph shape</string>
+    <string name="cd_remove_city">Remove city</string>
+    <string name="cd_delete_alarm">Delete alarm</string>
+    <string name="cd_reset_timer">Reset timer</string>
+    <string name="cd_reset_stopwatch">Reset stopwatch</string>
+    <string name="cd_dismiss_ringing">Dismiss alert</string>
+
+    <string name="world_clock_title">World Clock</string>
+    <string name="add_city">Add City</string>
+    <string name="empty_world_cities">No world cities pinned yet. Tap Add City to track another timezone.</string>
+    <string name="search_city_hint">Search city or timezone…</string>
+
+    <string name="alarms_title">Alarms</string>
+    <string name="test_sound">Test Sound</string>
+    <string name="new_alarm">New Alarm</string>
+    <string name="empty_alarms">No alarms set. Create one to wake up to a synthesized chime.</string>
+    <string name="set_new_alarm">Set New Alarm</string>
+    <string name="alarm_label_hint">Alarm label (e.g. Morning Coffee)</string>
+    <string name="repeat_days">Repeat Days</string>
+    <string name="cancel">Cancel</string>
+    <string name="save_alarm">Save Alarm</string>
+    <string name="dismiss">Dismiss</string>
+
+    <string name="timer_ready">Ready</string>
+    <string name="timer_running">Running</string>
+    <string name="timer_paused">Paused</string>
+    <string name="timer_finished">Finished!</string>
+    <string name="action_start">Start</string>
+    <string name="action_pause">Pause</string>
+    <string name="action_resume">Resume</string>
+    <string name="action_lap">Lap</string>
+    <string name="add_one_minute">+1:00</string>
+    <string name="fastest">Fastest</string>
+    <string name="slowest">Slowest</string>
+    <string name="empty_laps">Tap Lap while running to record split times.</string>
+
+    <string name="theme_studio_eyebrow">Theme Studio</string>
+    <string name="theme_studio_title">Expressive Personalizer</string>
+    <string name="studio_curated_presets">Curated Presets</string>
+    <string name="studio_seed_color">Dynamic Seed Color</string>
+    <string name="studio_palette_scheme">Palette Scheme</string>
+    <string name="studio_surface_mode">Surface Mode</string>
+    <string name="studio_material_shapes">Material Shape Dial</string>
+    <string name="studio_clock_layout">Clock Face Layout</string>
+    <string name="studio_hand_motion">Hand Style &amp; Motion</string>
+    <string name="studio_typography">Typography Personality</string>
+    <string name="studio_clock_weight">Clock Weight</string>
+    <string name="studio_corner_style">Container Corner Style</string>
+    <string name="studio_clock_details">Clock Details</string>
+    <string name="studio_export_json">Export JSON</string>
+    <string name="studio_import_json">Import JSON</string>
+    <string name="studio_reset">Reset</string>
+</resources>
